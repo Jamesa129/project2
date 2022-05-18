@@ -1,0 +1,26 @@
+Commands cheat Sheet & Notes
+
+http://localhost:3000/
+
+.gitignore
+
+https://docs.npmjs.com/cli/v8/commands
+
+Common:
+
+npm init -y        bypass prompts constructing json with Yes's
+npm -i          installs
+// npm i express// popular node.js
+npm -unistall    (package name right after)
+npm -ls      list items
+
+echo "# project2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jamesa129/project2.git
+git push -u origin main
+
+nodemon
+
